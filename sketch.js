@@ -11,14 +11,14 @@ var grupo_de_gasolina;
 
 function preload() {
   backgroundImage = loadImage("./assets/planodefundo.png");
-  car1_img = loadImage("../assets/car1.png");
-  car2_img = loadImage("../assets/car4.png");
-  track = loadImage("../assets/track.jpg");
-  obstaculo1_img = loadImage("../assets/doguinho.png");
-  obstaculo2_img = loadImage("../assets/THEROCK.png");
-  moeda_img = loadImage("../assets/Dogecoin.png");
-  gasolina_img = loadImage("../assets/gas.png");
-  life_img = loadImage("../assets/life.png")
+  car1_img = loadImage("./assets/car1.png");
+  car2_img = loadImage("./assets/car4.png");
+  track = loadImage("./assets/track.jpg");
+  obstaculo1_img = loadImage("./assets/doguinho.png");
+  obstaculo2_img = loadImage("./assets/THEROCK.png");
+  moeda_img = loadImage("./assets/Dogecoin.png");
+  gasolina_img = loadImage("./assets/gas.png");
+  life_img = loadImage("./assets/life.png")
 }
 
 function setup() {
