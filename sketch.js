@@ -17,7 +17,7 @@ function preload() {
   obstaculo1_img = loadImage("assets/doguinho.png");
   obstaculo2_img = loadImage("assets/THEROCK.png");
   moeda_img = loadImage("assets/Dogecoin.png");
-  gasolina_img = loadImage("assets/gas.png");
+  gasolina_img = loadImage("assets/Gas.png");
   life_img = loadImage("assets/life.png")
 }
 
