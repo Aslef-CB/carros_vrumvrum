@@ -10,7 +10,7 @@ var grupo_de_gasolina;
 
 
 function preload() {
-  backgroundImage = loadImage("./assets/planodefundo.png");
+  backgroundImage = loadImage("assets/planodefundo.png");
   car1_img = loadImage("assets/car1.png");
   car2_img = loadImage("assets/car4.png");
   track = loadImage("assets/track.jpg");
